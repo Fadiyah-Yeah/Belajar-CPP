@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-	cout << "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa AKU MAU Pulangggggggggggggggggggggggggg" << endl;
+	cout << "a WI WI WI" << endl;
 }
